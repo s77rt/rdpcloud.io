@@ -207,7 +207,7 @@ const App: React.FC = () => {
 					<section style={{ textAlign: "center", scrollMargin: "64px" }} ref={sectionRefs[2]}>
 						<Title level={3} style={{ marginTop: "64px", padding: "50px 0" }}>Download</Title>
 						<Title level={4} style={{ marginTop: 0}}>Standard Version</Title>
-						<span style={{ fontSize: "3rem" }}>$90</span>
+						<span style={{ fontSize: "3rem" }}>$99</span>
 						<span style={{ fontSize: "1rem" }}>/per server</span>
 						<Paragraph>
 							Ideal for personal use and SMBs
