@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fb640127.css",
+    "main.js": "/static/js/main.96e1788b.js",
+    "static/js/27.db6cdd3b.chunk.js": "/static/js/27.db6cdd3b.chunk.js",
+    "static/media/whmcs-service-admin.png": "/static/media/whmcs-service-admin.45e55fa03ebd8eb2d7bb.png",
+    "static/media/admin-initiate-system-shutdown.png": "/static/media/admin-initiate-system-shutdown.7ae691e18c2305a2ab7e.png",
+    "static/media/admin-set-quota-state.png": "/static/media/admin-set-quota-state.a1531928264afcae953b.png",
+    "static/media/admin-list-users.png": "/static/media/admin-list-users.4b3586af38f12dc6752d.png",
+    "static/media/admin-get-quota-state-2.png": "/static/media/admin-get-quota-state-2.d13edb8a7162c37d8180.png",
+    "static/media/whmcs-product.png": "/static/media/whmcs-product.669eda9c92e3a4b61987.png",
+    "static/media/admin-get-quota-state.png": "/static/media/admin-get-quota-state.bec93276ea3ee3d6c6c6.png",
+    "static/media/user-get-user-info.png": "/static/media/user-get-user-info.5ff77f8cd10e1034a3cb.png",
+    "static/media/admin-view.png": "/static/media/admin-view.fe38a47887b938b9d8c2.png",
+    "static/media/user-get-uptime.png": "/static/media/user-get-uptime.2af3a6ac3c056e883120.png",
+    "static/media/user-view.png": "/static/media/user-view.4b6a9773de2802a8b134.png",
+    "static/media/login.png": "/static/media/login.b58fd4820bafd2ebe113.png",
+    "static/media/whmcs-service-client.png": "/static/media/whmcs-service-client.20005a06bb27447fd9a3.png",
+    "static/media/rdpcloud.png": "/static/media/rdpcloud.c64248aa9b89e96b8b5a.png",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.fb640127.css",
+    "static/js/main.96e1788b.js"
+  ]
+}
