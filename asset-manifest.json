@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.fb640127.css",
-    "main.js": "/static/js/main.e8563887.js",
+    "main.js": "/static/js/main.bed10f2d.js",
     "static/js/27.db6cdd3b.chunk.js": "/static/js/27.db6cdd3b.chunk.js",
     "static/media/whmcs-service-admin.png": "/static/media/whmcs-service-admin.45e55fa03ebd8eb2d7bb.png",
     "static/media/admin-initiate-system-shutdown.png": "/static/media/admin-initiate-system-shutdown.7ae691e18c2305a2ab7e.png",
@@ -21,6 +21,6 @@
   },
   "entrypoints": [
     "static/css/main.fb640127.css",
-    "static/js/main.e8563887.js"
+    "static/js/main.bed10f2d.js"
   ]
 }
