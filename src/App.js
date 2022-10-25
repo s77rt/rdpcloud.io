@@ -209,6 +209,7 @@ const App: React.FC = () => {
 						<Title level={4} style={{ marginTop: 0}}>Standard Version</Title>
 						<span style={{ fontSize: "3rem" }}>$99</span>
 						<span style={{ fontSize: "1rem" }}>/per server</span>
+						<p style={{ fontSize: ".75rem", fontWeight: "bolder" }}>One-Time Fee - Lifetime License</p>
 						<Paragraph>
 							Ideal for personal use and SMBs
 						</Paragraph>
