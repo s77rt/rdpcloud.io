@@ -208,20 +208,20 @@ const App: React.FC = () => {
 						<Title level={3} style={{ marginTop: "64px", padding: "50px 0" }}>Download</Title>
 						<Title level={4} style={{ marginTop: 0}}>Standard Version</Title>
 						<div>
-							<span style={{ fontSize: "3rem" }}>$99</span>
+							<span style={{ fontSize: "3rem" }}><s>$99</s> FREE</span>
 							<span style={{ fontSize: "1rem" }}>/per server</span>
 						</div>
 						<Paragraph style={{ fontSize: ".75rem", fontWeight: "bolder" }}>
-							One-Time Fee - Lifetime License
+							<s>One-Time Fee - Lifetime License</s>
+						</Paragraph>
+						<Paragraph style={{ fontSize: ".75rem", fontWeight: "bolder" }}>
+							OPEN-SOURCE
 						</Paragraph>
 						<Paragraph>
 							Ideal for personal use and SMBs
 						</Paragraph>
 						<div style={{ paddingTop: "20px" }}>
-							<Paragraph>
-								Get a 30-Days Free Trial 
-							</Paragraph>
-							<Button type="primary" size="large" href="https://t.me/s77rt" target="_blank" rel="noopener noreferrer">Contact via Telegram</Button>
+							<Button type="primary" size="large" href="https://github.com/s77rt/rdpcloud" target="_blank" rel="noopener noreferrer">Get it now</Button>
 						</div>
 					</section>
 				</Content>
